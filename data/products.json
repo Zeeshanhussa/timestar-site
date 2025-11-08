@@ -1,0 +1,35 @@
+[
+  {
+    "id": "TS001",
+    "name": "TimeStar Classic Watch",
+    "price": "₹1,499",
+    "price_raw": 1499,
+    "currency": "INR",
+    "description": "Elegant analog watch with leather strap. Perfect for daily wear.",
+    "image": "images/sample1.png",
+    "category": "Men",
+    "stock": 25
+  },
+  {
+    "id": "TS002",
+    "name": "TimeStar Sport Watch",
+    "price": "₹2,299",
+    "price_raw": 2299,
+    "currency": "INR",
+    "description": "Durable sport watch with water resistance and stopwatch features.",
+    "image": "images/sample2.png",
+    "category": "Unisex",
+    "stock": 40
+  },
+  {
+    "id": "TS003",
+    "name": "TimeStar Leather Strap",
+    "price": "₹999",
+    "price_raw": 999,
+    "currency": "INR",
+    "description": "Replaceable premium leather strap for classic watches.",
+    "image": "images/sample3.png",
+    "category": "Accessories",
+    "stock": 60
+  }
+]
